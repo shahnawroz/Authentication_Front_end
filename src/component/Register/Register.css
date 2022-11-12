@@ -1,0 +1,9 @@
+.main-form-container {
+  display: flex;
+  justify-content: center;
+}
+.main-form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+}
